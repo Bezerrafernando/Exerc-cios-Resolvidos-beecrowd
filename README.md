@@ -1,4 +1,4 @@
-# Exercícios-Resolvidos-beecrowd
+# Exercícios Resolvidos beecrowd
 
 Exercícios resolvidos do site beecrowd (antigo URI)
 
