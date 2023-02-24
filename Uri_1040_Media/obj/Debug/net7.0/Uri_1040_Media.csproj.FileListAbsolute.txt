@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1040_Media\bin\Debug\net7.0\Uri_1040_Media.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1040_Media\bin\Debug\net7.0\Uri_1040_Media.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1040_Media\bin\Debug\net7.0\Uri_1040_Media.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1040_Media\bin\Debug\net7.0\Uri_1040_Media.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1040_Media\bin\Debug\net7.0\Uri_1040_Media.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1040_Media\obj\Debug\net7.0\Uri_1040_Media.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1040_Media\obj\Debug\net7.0\Uri_1040_Media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1040_Media\obj\Debug\net7.0\Uri_1040_Media.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1040_Media\obj\Debug\net7.0\Uri_1040_Media.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1040_Media\obj\Debug\net7.0\Uri_1040_Media.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1040_Media\obj\Debug\net7.0\Uri_1040_Media.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1040_Media\obj\Debug\net7.0\refint\Uri_1040_Media.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1040_Media\obj\Debug\net7.0\Uri_1040_Media.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1040_Media\obj\Debug\net7.0\Uri_1040_Media.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1040_Media\obj\Debug\net7.0\ref\Uri_1040_Media.dll

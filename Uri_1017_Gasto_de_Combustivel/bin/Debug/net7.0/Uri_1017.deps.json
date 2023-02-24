@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Uri_1017/1.0.0": {
+        "runtime": {
+          "Uri_1017.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uri_1017/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

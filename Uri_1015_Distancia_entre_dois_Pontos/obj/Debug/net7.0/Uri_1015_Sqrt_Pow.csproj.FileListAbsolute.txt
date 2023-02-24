@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1015_Sqrt_Pow\bin\Debug\net7.0\Uri_1015_Sqrt_Pow.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1015_Sqrt_Pow\bin\Debug\net7.0\Uri_1015_Sqrt_Pow.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1015_Sqrt_Pow\bin\Debug\net7.0\Uri_1015_Sqrt_Pow.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1015_Sqrt_Pow\bin\Debug\net7.0\Uri_1015_Sqrt_Pow.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1015_Sqrt_Pow\bin\Debug\net7.0\Uri_1015_Sqrt_Pow.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1015_Sqrt_Pow\obj\Debug\net7.0\Uri_1015_Sqrt_Pow.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1015_Sqrt_Pow\obj\Debug\net7.0\Uri_1015_Sqrt_Pow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1015_Sqrt_Pow\obj\Debug\net7.0\Uri_1015_Sqrt_Pow.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1015_Sqrt_Pow\obj\Debug\net7.0\Uri_1015_Sqrt_Pow.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1015_Sqrt_Pow\obj\Debug\net7.0\Uri_1015_Sqrt_Pow.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1015_Sqrt_Pow\obj\Debug\net7.0\Uri_1015_Sqrt_Pow.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1015_Sqrt_Pow\obj\Debug\net7.0\refint\Uri_1015_Sqrt_Pow.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1015_Sqrt_Pow\obj\Debug\net7.0\Uri_1015_Sqrt_Pow.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1015_Sqrt_Pow\obj\Debug\net7.0\Uri_1015_Sqrt_Pow.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1015_Sqrt_Pow\obj\Debug\net7.0\ref\Uri_1015_Sqrt_Pow.dll

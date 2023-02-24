@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1013_Abs\obj\Debug\net7.0\Uri_1013_Abs.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1013_Abs\obj\Debug\net7.0\Uri_1013_Abs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1013_Abs\obj\Debug\net7.0\Uri_1013_Abs.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1013_Abs\obj\Debug\net7.0\Uri_1013_Abs.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1013_Abs\obj\Debug\net7.0\Uri_1013_Abs.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1013_Abs\bin\Debug\net7.0\Uri_1013_Abs.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1013_Abs\bin\Debug\net7.0\Uri_1013_Abs.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1013_Abs\bin\Debug\net7.0\Uri_1013_Abs.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1013_Abs\bin\Debug\net7.0\Uri_1013_Abs.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1013_Abs\bin\Debug\net7.0\Uri_1013_Abs.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1013_Abs\obj\Debug\net7.0\Uri_1013_Abs.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1013_Abs\obj\Debug\net7.0\refint\Uri_1013_Abs.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1013_Abs\obj\Debug\net7.0\Uri_1013_Abs.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1013_Abs\obj\Debug\net7.0\Uri_1013_Abs.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1013_Abs\obj\Debug\net7.0\ref\Uri_1013_Abs.dll

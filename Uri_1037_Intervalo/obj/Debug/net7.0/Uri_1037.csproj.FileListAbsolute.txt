@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1037_Intervalo\bin\Debug\net7.0\Uri_1037.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1037_Intervalo\bin\Debug\net7.0\Uri_1037.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1037_Intervalo\bin\Debug\net7.0\Uri_1037.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1037_Intervalo\bin\Debug\net7.0\Uri_1037.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1037_Intervalo\bin\Debug\net7.0\Uri_1037.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1037_Intervalo\obj\Debug\net7.0\Uri_1037.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1037_Intervalo\obj\Debug\net7.0\Uri_1037.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1037_Intervalo\obj\Debug\net7.0\Uri_1037.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1037_Intervalo\obj\Debug\net7.0\Uri_1037.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1037_Intervalo\obj\Debug\net7.0\Uri_1037.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1037_Intervalo\obj\Debug\net7.0\Uri_1037.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1037_Intervalo\obj\Debug\net7.0\refint\Uri_1037.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1037_Intervalo\obj\Debug\net7.0\Uri_1037.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1037_Intervalo\obj\Debug\net7.0\Uri_1037.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1037_Intervalo\obj\Debug\net7.0\ref\Uri_1037.dll

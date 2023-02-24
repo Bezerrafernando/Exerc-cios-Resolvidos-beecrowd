@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1012_Geometria\bin\Debug\net7.0\Uri_1012_Geometria.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1012_Geometria\bin\Debug\net7.0\Uri_1012_Geometria.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1012_Geometria\bin\Debug\net7.0\Uri_1012_Geometria.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1012_Geometria\bin\Debug\net7.0\Uri_1012_Geometria.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1012_Geometria\bin\Debug\net7.0\Uri_1012_Geometria.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1012_Geometria\obj\Debug\net7.0\Uri_1012_Geometria.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1012_Geometria\obj\Debug\net7.0\Uri_1012_Geometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1012_Geometria\obj\Debug\net7.0\Uri_1012_Geometria.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1012_Geometria\obj\Debug\net7.0\Uri_1012_Geometria.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1012_Geometria\obj\Debug\net7.0\Uri_1012_Geometria.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1012_Geometria\obj\Debug\net7.0\Uri_1012_Geometria.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1012_Geometria\obj\Debug\net7.0\refint\Uri_1012_Geometria.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1012_Geometria\obj\Debug\net7.0\Uri_1012_Geometria.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1012_Geometria\obj\Debug\net7.0\Uri_1012_Geometria.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1012_Geometria\obj\Debug\net7.0\ref\Uri_1012_Geometria.dll

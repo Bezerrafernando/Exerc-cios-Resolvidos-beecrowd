@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1061_mod_string\bin\Debug\net7.0\Uri_1061_mod_string.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1061_mod_string\bin\Debug\net7.0\Uri_1061_mod_string.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1061_mod_string\bin\Debug\net7.0\Uri_1061_mod_string.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1061_mod_string\bin\Debug\net7.0\Uri_1061_mod_string.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1061_mod_string\bin\Debug\net7.0\Uri_1061_mod_string.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1061_mod_string\obj\Debug\net7.0\Uri_1061_mod_string.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1061_mod_string\obj\Debug\net7.0\Uri_1061_mod_string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1061_mod_string\obj\Debug\net7.0\Uri_1061_mod_string.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1061_mod_string\obj\Debug\net7.0\Uri_1061_mod_string.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1061_mod_string\obj\Debug\net7.0\Uri_1061_mod_string.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1061_mod_string\obj\Debug\net7.0\Uri_1061_mod_string.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1061_mod_string\obj\Debug\net7.0\refint\Uri_1061_mod_string.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1061_mod_string\obj\Debug\net7.0\Uri_1061_mod_string.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1061_mod_string\obj\Debug\net7.0\Uri_1061_mod_string.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1061_mod_string\obj\Debug\net7.0\ref\Uri_1061_mod_string.dll

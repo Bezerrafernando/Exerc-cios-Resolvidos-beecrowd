@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1011_Casting\bin\Debug\net7.0\Uri_1011_Casting.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1011_Casting\bin\Debug\net7.0\Uri_1011_Casting.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1011_Casting\bin\Debug\net7.0\Uri_1011_Casting.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1011_Casting\bin\Debug\net7.0\Uri_1011_Casting.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1011_Casting\bin\Debug\net7.0\Uri_1011_Casting.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1011_Casting\obj\Debug\net7.0\Uri_1011_Casting.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1011_Casting\obj\Debug\net7.0\Uri_1011_Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1011_Casting\obj\Debug\net7.0\Uri_1011_Casting.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1011_Casting\obj\Debug\net7.0\Uri_1011_Casting.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1011_Casting\obj\Debug\net7.0\Uri_1011_Casting.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1011_Casting\obj\Debug\net7.0\Uri_1011_Casting.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1011_Casting\obj\Debug\net7.0\refint\Uri_1011_Casting.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1011_Casting\obj\Debug\net7.0\Uri_1011_Casting.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1011_Casting\obj\Debug\net7.0\Uri_1011_Casting.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Uri_Desafios\Uri_1011_Casting\obj\Debug\net7.0\ref\Uri_1011_Casting.dll
