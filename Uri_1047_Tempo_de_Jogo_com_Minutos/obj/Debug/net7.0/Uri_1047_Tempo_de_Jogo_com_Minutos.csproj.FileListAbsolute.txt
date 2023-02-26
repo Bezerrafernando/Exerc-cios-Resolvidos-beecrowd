@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1047_Tempo_de_Jogo_com_Minutos\obj\Debug\net7.0\Uri_1047_Tempo_de_Jogo_com_Minutos.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1047_Tempo_de_Jogo_com_Minutos\obj\Debug\net7.0\Uri_1047_Tempo_de_Jogo_com_Minutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1047_Tempo_de_Jogo_com_Minutos\obj\Debug\net7.0\Uri_1047_Tempo_de_Jogo_com_Minutos.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1047_Tempo_de_Jogo_com_Minutos\obj\Debug\net7.0\Uri_1047_Tempo_de_Jogo_com_Minutos.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1047_Tempo_de_Jogo_com_Minutos\obj\Debug\net7.0\Uri_1047_Tempo_de_Jogo_com_Minutos.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1047_Tempo_de_Jogo_com_Minutos\bin\Debug\net7.0\Uri_1047_Tempo_de_Jogo_com_Minutos.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1047_Tempo_de_Jogo_com_Minutos\bin\Debug\net7.0\Uri_1047_Tempo_de_Jogo_com_Minutos.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1047_Tempo_de_Jogo_com_Minutos\bin\Debug\net7.0\Uri_1047_Tempo_de_Jogo_com_Minutos.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1047_Tempo_de_Jogo_com_Minutos\bin\Debug\net7.0\Uri_1047_Tempo_de_Jogo_com_Minutos.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1047_Tempo_de_Jogo_com_Minutos\bin\Debug\net7.0\Uri_1047_Tempo_de_Jogo_com_Minutos.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1047_Tempo_de_Jogo_com_Minutos\obj\Debug\net7.0\Uri_1047_Tempo_de_Jogo_com_Minutos.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1047_Tempo_de_Jogo_com_Minutos\obj\Debug\net7.0\refint\Uri_1047_Tempo_de_Jogo_com_Minutos.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1047_Tempo_de_Jogo_com_Minutos\obj\Debug\net7.0\Uri_1047_Tempo_de_Jogo_com_Minutos.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1047_Tempo_de_Jogo_com_Minutos\obj\Debug\net7.0\Uri_1047_Tempo_de_Jogo_com_Minutos.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1047_Tempo_de_Jogo_com_Minutos\obj\Debug\net7.0\ref\Uri_1047_Tempo_de_Jogo_com_Minutos.dll

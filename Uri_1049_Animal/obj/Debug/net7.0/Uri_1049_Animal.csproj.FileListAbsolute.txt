@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1049_Animal\bin\Debug\net7.0\Uri_1049_Animal.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1049_Animal\bin\Debug\net7.0\Uri_1049_Animal.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1049_Animal\bin\Debug\net7.0\Uri_1049_Animal.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1049_Animal\bin\Debug\net7.0\Uri_1049_Animal.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1049_Animal\bin\Debug\net7.0\Uri_1049_Animal.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1049_Animal\obj\Debug\net7.0\Uri_1049_Animal.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1049_Animal\obj\Debug\net7.0\Uri_1049_Animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1049_Animal\obj\Debug\net7.0\Uri_1049_Animal.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1049_Animal\obj\Debug\net7.0\Uri_1049_Animal.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1049_Animal\obj\Debug\net7.0\Uri_1049_Animal.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1049_Animal\obj\Debug\net7.0\Uri_1049_Animal.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1049_Animal\obj\Debug\net7.0\refint\Uri_1049_Animal.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1049_Animal\obj\Debug\net7.0\Uri_1049_Animal.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1049_Animal\obj\Debug\net7.0\Uri_1049_Animal.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1049_Animal\obj\Debug\net7.0\ref\Uri_1049_Animal.dll

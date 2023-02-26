@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1041_Coordenadas_de_um_Ponto\bin\Debug\net7.0\Uri_1041_Coordenadas_de_um_Ponto.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1041_Coordenadas_de_um_Ponto\bin\Debug\net7.0\Uri_1041_Coordenadas_de_um_Ponto.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1041_Coordenadas_de_um_Ponto\bin\Debug\net7.0\Uri_1041_Coordenadas_de_um_Ponto.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1041_Coordenadas_de_um_Ponto\bin\Debug\net7.0\Uri_1041_Coordenadas_de_um_Ponto.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1041_Coordenadas_de_um_Ponto\bin\Debug\net7.0\Uri_1041_Coordenadas_de_um_Ponto.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1041_Coordenadas_de_um_Ponto\obj\Debug\net7.0\Uri_1041_Coordenadas_de_um_Ponto.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1041_Coordenadas_de_um_Ponto\obj\Debug\net7.0\Uri_1041_Coordenadas_de_um_Ponto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1041_Coordenadas_de_um_Ponto\obj\Debug\net7.0\Uri_1041_Coordenadas_de_um_Ponto.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1041_Coordenadas_de_um_Ponto\obj\Debug\net7.0\Uri_1041_Coordenadas_de_um_Ponto.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1041_Coordenadas_de_um_Ponto\obj\Debug\net7.0\Uri_1041_Coordenadas_de_um_Ponto.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1041_Coordenadas_de_um_Ponto\obj\Debug\net7.0\Uri_1041_Coordenadas_de_um_Ponto.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1041_Coordenadas_de_um_Ponto\obj\Debug\net7.0\refint\Uri_1041_Coordenadas_de_um_Ponto.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1041_Coordenadas_de_um_Ponto\obj\Debug\net7.0\Uri_1041_Coordenadas_de_um_Ponto.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1041_Coordenadas_de_um_Ponto\obj\Debug\net7.0\Uri_1041_Coordenadas_de_um_Ponto.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1041_Coordenadas_de_um_Ponto\obj\Debug\net7.0\ref\Uri_1041_Coordenadas_de_um_Ponto.dll

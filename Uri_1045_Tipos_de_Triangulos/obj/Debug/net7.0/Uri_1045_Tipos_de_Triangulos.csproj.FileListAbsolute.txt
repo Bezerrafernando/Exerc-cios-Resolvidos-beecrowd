@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1045_Tipos_de_Triangulos\obj\Debug\net7.0\Uri_1045_Tipos_de_Triangulos.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1045_Tipos_de_Triangulos\obj\Debug\net7.0\Uri_1045_Tipos_de_Triangulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1045_Tipos_de_Triangulos\obj\Debug\net7.0\Uri_1045_Tipos_de_Triangulos.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1045_Tipos_de_Triangulos\obj\Debug\net7.0\Uri_1045_Tipos_de_Triangulos.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1045_Tipos_de_Triangulos\obj\Debug\net7.0\Uri_1045_Tipos_de_Triangulos.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1045_Tipos_de_Triangulos\bin\Debug\net7.0\Uri_1045_Tipos_de_Triangulos.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1045_Tipos_de_Triangulos\bin\Debug\net7.0\Uri_1045_Tipos_de_Triangulos.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1045_Tipos_de_Triangulos\bin\Debug\net7.0\Uri_1045_Tipos_de_Triangulos.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1045_Tipos_de_Triangulos\bin\Debug\net7.0\Uri_1045_Tipos_de_Triangulos.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1045_Tipos_de_Triangulos\bin\Debug\net7.0\Uri_1045_Tipos_de_Triangulos.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1045_Tipos_de_Triangulos\obj\Debug\net7.0\Uri_1045_Tipos_de_Triangulos.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1045_Tipos_de_Triangulos\obj\Debug\net7.0\refint\Uri_1045_Tipos_de_Triangulos.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1045_Tipos_de_Triangulos\obj\Debug\net7.0\Uri_1045_Tipos_de_Triangulos.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1045_Tipos_de_Triangulos\obj\Debug\net7.0\Uri_1045_Tipos_de_Triangulos.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1045_Tipos_de_Triangulos\obj\Debug\net7.0\ref\Uri_1045_Tipos_de_Triangulos.dll

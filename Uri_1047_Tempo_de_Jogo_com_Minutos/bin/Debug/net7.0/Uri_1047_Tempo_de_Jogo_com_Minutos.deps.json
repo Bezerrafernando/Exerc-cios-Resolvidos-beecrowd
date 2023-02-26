@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Uri_1047_Tempo_de_Jogo_com_Minutos/1.0.0": {
+        "runtime": {
+          "Uri_1047_Tempo_de_Jogo_com_Minutos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uri_1047_Tempo_de_Jogo_com_Minutos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
