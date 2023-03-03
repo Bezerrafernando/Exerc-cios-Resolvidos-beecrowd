@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1043_Triangulo\bin\Debug\net7.0\Uri_1043_Triangulo.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1043_Triangulo\bin\Debug\net7.0\Uri_1043_Triangulo.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1043_Triangulo\bin\Debug\net7.0\Uri_1043_Triangulo.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1043_Triangulo\bin\Debug\net7.0\Uri_1043_Triangulo.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1043_Triangulo\bin\Debug\net7.0\Uri_1043_Triangulo.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1043_Triangulo\obj\Debug\net7.0\Uri_1043_Triangulo.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1043_Triangulo\obj\Debug\net7.0\Uri_1043_Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1043_Triangulo\obj\Debug\net7.0\Uri_1043_Triangulo.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1043_Triangulo\obj\Debug\net7.0\Uri_1043_Triangulo.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1043_Triangulo\obj\Debug\net7.0\Uri_1043_Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1043_Triangulo\obj\Debug\net7.0\Uri_1043_Triangulo.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1043_Triangulo\obj\Debug\net7.0\refint\Uri_1043_Triangulo.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1043_Triangulo\obj\Debug\net7.0\Uri_1043_Triangulo.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1043_Triangulo\obj\Debug\net7.0\Uri_1043_Triangulo.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1043_Triangulo\obj\Debug\net7.0\ref\Uri_1043_Triangulo.dll

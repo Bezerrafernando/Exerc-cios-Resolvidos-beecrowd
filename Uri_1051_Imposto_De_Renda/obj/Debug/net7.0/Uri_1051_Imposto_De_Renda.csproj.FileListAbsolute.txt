@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1051_Imposto_De_Renda\bin\Debug\net7.0\Uri_1051_Imposto_De_Renda.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1051_Imposto_De_Renda\bin\Debug\net7.0\Uri_1051_Imposto_De_Renda.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1051_Imposto_De_Renda\bin\Debug\net7.0\Uri_1051_Imposto_De_Renda.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1051_Imposto_De_Renda\bin\Debug\net7.0\Uri_1051_Imposto_De_Renda.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1051_Imposto_De_Renda\bin\Debug\net7.0\Uri_1051_Imposto_De_Renda.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1051_Imposto_De_Renda\obj\Debug\net7.0\Uri_1051_Imposto_De_Renda.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1051_Imposto_De_Renda\obj\Debug\net7.0\Uri_1051_Imposto_De_Renda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1051_Imposto_De_Renda\obj\Debug\net7.0\Uri_1051_Imposto_De_Renda.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1051_Imposto_De_Renda\obj\Debug\net7.0\Uri_1051_Imposto_De_Renda.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1051_Imposto_De_Renda\obj\Debug\net7.0\Uri_1051_Imposto_De_Renda.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1051_Imposto_De_Renda\obj\Debug\net7.0\Uri_1051_Imposto_De_Renda.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1051_Imposto_De_Renda\obj\Debug\net7.0\refint\Uri_1051_Imposto_De_Renda.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1051_Imposto_De_Renda\obj\Debug\net7.0\Uri_1051_Imposto_De_Renda.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1051_Imposto_De_Renda\obj\Debug\net7.0\Uri_1051_Imposto_De_Renda.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1051_Imposto_De_Renda\obj\Debug\net7.0\ref\Uri_1051_Imposto_De_Renda.dll
