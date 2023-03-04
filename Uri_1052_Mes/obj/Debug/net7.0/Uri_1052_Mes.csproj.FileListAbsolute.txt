@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1052_Mes\bin\Debug\net7.0\Uri_1052_Mes.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1052_Mes\bin\Debug\net7.0\Uri_1052_Mes.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1052_Mes\bin\Debug\net7.0\Uri_1052_Mes.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1052_Mes\bin\Debug\net7.0\Uri_1052_Mes.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1052_Mes\bin\Debug\net7.0\Uri_1052_Mes.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1052_Mes\obj\Debug\net7.0\Uri_1052_Mes.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1052_Mes\obj\Debug\net7.0\Uri_1052_Mes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1052_Mes\obj\Debug\net7.0\Uri_1052_Mes.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1052_Mes\obj\Debug\net7.0\Uri_1052_Mes.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1052_Mes\obj\Debug\net7.0\Uri_1052_Mes.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1052_Mes\obj\Debug\net7.0\Uri_1052_Mes.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1052_Mes\obj\Debug\net7.0\refint\Uri_1052_Mes.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1052_Mes\obj\Debug\net7.0\Uri_1052_Mes.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1052_Mes\obj\Debug\net7.0\Uri_1052_Mes.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1052_Mes\obj\Debug\net7.0\ref\Uri_1052_Mes.dll
