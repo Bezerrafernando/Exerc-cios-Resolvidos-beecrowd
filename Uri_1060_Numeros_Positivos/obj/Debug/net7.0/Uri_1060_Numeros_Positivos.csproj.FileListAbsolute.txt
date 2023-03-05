@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1060_Numeros_Positivos\obj\Debug\net7.0\Uri_1060_Numeros_Positivos.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1060_Numeros_Positivos\obj\Debug\net7.0\Uri_1060_Numeros_Positivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1060_Numeros_Positivos\obj\Debug\net7.0\Uri_1060_Numeros_Positivos.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1060_Numeros_Positivos\obj\Debug\net7.0\Uri_1060_Numeros_Positivos.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1060_Numeros_Positivos\obj\Debug\net7.0\Uri_1060_Numeros_Positivos.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1060_Numeros_Positivos\bin\Debug\net7.0\Uri_1060_Numeros_Positivos.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1060_Numeros_Positivos\bin\Debug\net7.0\Uri_1060_Numeros_Positivos.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1060_Numeros_Positivos\bin\Debug\net7.0\Uri_1060_Numeros_Positivos.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1060_Numeros_Positivos\bin\Debug\net7.0\Uri_1060_Numeros_Positivos.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1060_Numeros_Positivos\bin\Debug\net7.0\Uri_1060_Numeros_Positivos.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1060_Numeros_Positivos\obj\Debug\net7.0\Uri_1060_Numeros_Positivos.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1060_Numeros_Positivos\obj\Debug\net7.0\refint\Uri_1060_Numeros_Positivos.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1060_Numeros_Positivos\obj\Debug\net7.0\Uri_1060_Numeros_Positivos.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1060_Numeros_Positivos\obj\Debug\net7.0\Uri_1060_Numeros_Positivos.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1060_Numeros_Positivos\obj\Debug\net7.0\ref\Uri_1060_Numeros_Positivos.dll
