@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1065_Pares_entre_Cinco_Numeros\obj\Debug\net7.0\Uri_1065_Pares_entre_Cinco_Numeros.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1065_Pares_entre_Cinco_Numeros\obj\Debug\net7.0\Uri_1065_Pares_entre_Cinco_Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1065_Pares_entre_Cinco_Numeros\obj\Debug\net7.0\Uri_1065_Pares_entre_Cinco_Numeros.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1065_Pares_entre_Cinco_Numeros\obj\Debug\net7.0\Uri_1065_Pares_entre_Cinco_Numeros.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1065_Pares_entre_Cinco_Numeros\obj\Debug\net7.0\Uri_1065_Pares_entre_Cinco_Numeros.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1065_Pares_entre_Cinco_Numeros\bin\Debug\net7.0\Uri_1065_Pares_entre_Cinco_Numeros.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1065_Pares_entre_Cinco_Numeros\bin\Debug\net7.0\Uri_1065_Pares_entre_Cinco_Numeros.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1065_Pares_entre_Cinco_Numeros\bin\Debug\net7.0\Uri_1065_Pares_entre_Cinco_Numeros.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1065_Pares_entre_Cinco_Numeros\bin\Debug\net7.0\Uri_1065_Pares_entre_Cinco_Numeros.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1065_Pares_entre_Cinco_Numeros\bin\Debug\net7.0\Uri_1065_Pares_entre_Cinco_Numeros.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1065_Pares_entre_Cinco_Numeros\obj\Debug\net7.0\Uri_1065_Pares_entre_Cinco_Numeros.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1065_Pares_entre_Cinco_Numeros\obj\Debug\net7.0\refint\Uri_1065_Pares_entre_Cinco_Numeros.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1065_Pares_entre_Cinco_Numeros\obj\Debug\net7.0\Uri_1065_Pares_entre_Cinco_Numeros.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1065_Pares_entre_Cinco_Numeros\obj\Debug\net7.0\Uri_1065_Pares_entre_Cinco_Numeros.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1065_Pares_entre_Cinco_Numeros\obj\Debug\net7.0\ref\Uri_1065_Pares_entre_Cinco_Numeros.dll

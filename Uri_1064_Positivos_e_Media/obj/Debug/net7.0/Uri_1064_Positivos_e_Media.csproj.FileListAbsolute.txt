@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1064_Positivos_e_Media\bin\Debug\net7.0\Uri_1064_Positivos_e_Media.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1064_Positivos_e_Media\bin\Debug\net7.0\Uri_1064_Positivos_e_Media.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1064_Positivos_e_Media\bin\Debug\net7.0\Uri_1064_Positivos_e_Media.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1064_Positivos_e_Media\bin\Debug\net7.0\Uri_1064_Positivos_e_Media.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1064_Positivos_e_Media\bin\Debug\net7.0\Uri_1064_Positivos_e_Media.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1064_Positivos_e_Media\obj\Debug\net7.0\Uri_1064_Positivos_e_Media.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1064_Positivos_e_Media\obj\Debug\net7.0\Uri_1064_Positivos_e_Media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1064_Positivos_e_Media\obj\Debug\net7.0\Uri_1064_Positivos_e_Media.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1064_Positivos_e_Media\obj\Debug\net7.0\Uri_1064_Positivos_e_Media.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1064_Positivos_e_Media\obj\Debug\net7.0\Uri_1064_Positivos_e_Media.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1064_Positivos_e_Media\obj\Debug\net7.0\Uri_1064_Positivos_e_Media.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1064_Positivos_e_Media\obj\Debug\net7.0\refint\Uri_1064_Positivos_e_Media.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1064_Positivos_e_Media\obj\Debug\net7.0\Uri_1064_Positivos_e_Media.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1064_Positivos_e_Media\obj\Debug\net7.0\Uri_1064_Positivos_e_Media.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1064_Positivos_e_Media\obj\Debug\net7.0\ref\Uri_1064_Positivos_e_Media.dll
