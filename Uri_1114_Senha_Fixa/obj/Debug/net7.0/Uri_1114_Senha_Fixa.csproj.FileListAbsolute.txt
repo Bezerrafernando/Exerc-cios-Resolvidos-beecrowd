@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1114_Senha_Fixa\bin\Debug\net7.0\Uri_1114_Senha_Fixa.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1114_Senha_Fixa\bin\Debug\net7.0\Uri_1114_Senha_Fixa.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1114_Senha_Fixa\bin\Debug\net7.0\Uri_1114_Senha_Fixa.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1114_Senha_Fixa\bin\Debug\net7.0\Uri_1114_Senha_Fixa.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1114_Senha_Fixa\bin\Debug\net7.0\Uri_1114_Senha_Fixa.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1114_Senha_Fixa\obj\Debug\net7.0\Uri_1114_Senha_Fixa.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1114_Senha_Fixa\obj\Debug\net7.0\Uri_1114_Senha_Fixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1114_Senha_Fixa\obj\Debug\net7.0\Uri_1114_Senha_Fixa.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1114_Senha_Fixa\obj\Debug\net7.0\Uri_1114_Senha_Fixa.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1114_Senha_Fixa\obj\Debug\net7.0\Uri_1114_Senha_Fixa.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1114_Senha_Fixa\obj\Debug\net7.0\Uri_1114_Senha_Fixa.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1114_Senha_Fixa\obj\Debug\net7.0\refint\Uri_1114_Senha_Fixa.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1114_Senha_Fixa\obj\Debug\net7.0\Uri_1114_Senha_Fixa.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1114_Senha_Fixa\obj\Debug\net7.0\Uri_1114_Senha_Fixa.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1114_Senha_Fixa\obj\Debug\net7.0\ref\Uri_1114_Senha_Fixa.dll

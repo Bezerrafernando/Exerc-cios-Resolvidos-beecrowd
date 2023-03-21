@@ -3,8 +3,9 @@ Console.Clear();
 
 int x = int.Parse(Console.ReadLine());
 
-if(x % 2 == 0){
-    x =x + 1;
+if (x % 2 == 0)
+{
+    x = x + 1;
 }
 Console.WriteLine(x);
 Console.WriteLine(x + 2);

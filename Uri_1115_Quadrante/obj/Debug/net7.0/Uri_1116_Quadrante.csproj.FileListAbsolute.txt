@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1115_Quadrante\bin\Debug\net7.0\Uri_1116_Quadrante.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1115_Quadrante\bin\Debug\net7.0\Uri_1116_Quadrante.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1115_Quadrante\bin\Debug\net7.0\Uri_1116_Quadrante.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1115_Quadrante\bin\Debug\net7.0\Uri_1116_Quadrante.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1115_Quadrante\bin\Debug\net7.0\Uri_1116_Quadrante.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1115_Quadrante\obj\Debug\net7.0\Uri_1116_Quadrante.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1115_Quadrante\obj\Debug\net7.0\Uri_1116_Quadrante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1115_Quadrante\obj\Debug\net7.0\Uri_1116_Quadrante.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1115_Quadrante\obj\Debug\net7.0\Uri_1116_Quadrante.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1115_Quadrante\obj\Debug\net7.0\Uri_1116_Quadrante.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1115_Quadrante\obj\Debug\net7.0\Uri_1116_Quadrante.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1115_Quadrante\obj\Debug\net7.0\refint\Uri_1116_Quadrante.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1115_Quadrante\obj\Debug\net7.0\Uri_1116_Quadrante.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1115_Quadrante\obj\Debug\net7.0\Uri_1116_Quadrante.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1115_Quadrante\obj\Debug\net7.0\ref\Uri_1116_Quadrante.dll

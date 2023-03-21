@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1117_Validacao_de_Nota\bin\Debug\net7.0\Uri_1117_Validacao_de_Nota.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1117_Validacao_de_Nota\bin\Debug\net7.0\Uri_1117_Validacao_de_Nota.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1117_Validacao_de_Nota\bin\Debug\net7.0\Uri_1117_Validacao_de_Nota.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1117_Validacao_de_Nota\bin\Debug\net7.0\Uri_1117_Validacao_de_Nota.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1117_Validacao_de_Nota\bin\Debug\net7.0\Uri_1117_Validacao_de_Nota.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1117_Validacao_de_Nota\obj\Debug\net7.0\Uri_1117_Validacao_de_Nota.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1117_Validacao_de_Nota\obj\Debug\net7.0\Uri_1117_Validacao_de_Nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1117_Validacao_de_Nota\obj\Debug\net7.0\Uri_1117_Validacao_de_Nota.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1117_Validacao_de_Nota\obj\Debug\net7.0\Uri_1117_Validacao_de_Nota.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1117_Validacao_de_Nota\obj\Debug\net7.0\Uri_1117_Validacao_de_Nota.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1117_Validacao_de_Nota\obj\Debug\net7.0\Uri_1117_Validacao_de_Nota.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1117_Validacao_de_Nota\obj\Debug\net7.0\refint\Uri_1117_Validacao_de_Nota.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1117_Validacao_de_Nota\obj\Debug\net7.0\Uri_1117_Validacao_de_Nota.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1117_Validacao_de_Nota\obj\Debug\net7.0\Uri_1117_Validacao_de_Nota.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1117_Validacao_de_Nota\obj\Debug\net7.0\ref\Uri_1117_Validacao_de_Nota.dll
