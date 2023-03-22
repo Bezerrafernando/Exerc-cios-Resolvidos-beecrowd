@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1134_Tipo_de_Combustivel\bin\Debug\net7.0\Uri_1134_Tipo_de_Combustivel.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1134_Tipo_de_Combustivel\bin\Debug\net7.0\Uri_1134_Tipo_de_Combustivel.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1134_Tipo_de_Combustivel\bin\Debug\net7.0\Uri_1134_Tipo_de_Combustivel.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1134_Tipo_de_Combustivel\bin\Debug\net7.0\Uri_1134_Tipo_de_Combustivel.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1134_Tipo_de_Combustivel\bin\Debug\net7.0\Uri_1134_Tipo_de_Combustivel.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1134_Tipo_de_Combustivel\obj\Debug\net7.0\Uri_1134_Tipo_de_Combustivel.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1134_Tipo_de_Combustivel\obj\Debug\net7.0\Uri_1134_Tipo_de_Combustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1134_Tipo_de_Combustivel\obj\Debug\net7.0\Uri_1134_Tipo_de_Combustivel.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1134_Tipo_de_Combustivel\obj\Debug\net7.0\Uri_1134_Tipo_de_Combustivel.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1134_Tipo_de_Combustivel\obj\Debug\net7.0\Uri_1134_Tipo_de_Combustivel.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1134_Tipo_de_Combustivel\obj\Debug\net7.0\Uri_1134_Tipo_de_Combustivel.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1134_Tipo_de_Combustivel\obj\Debug\net7.0\refint\Uri_1134_Tipo_de_Combustivel.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1134_Tipo_de_Combustivel\obj\Debug\net7.0\Uri_1134_Tipo_de_Combustivel.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1134_Tipo_de_Combustivel\obj\Debug\net7.0\Uri_1134_Tipo_de_Combustivel.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1134_Tipo_de_Combustivel\obj\Debug\net7.0\ref\Uri_1134_Tipo_de_Combustivel.dll
