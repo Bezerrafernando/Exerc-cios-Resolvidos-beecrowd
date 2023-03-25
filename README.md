@@ -79,13 +79,12 @@ Para fazer isso, temos à disposição uma gama muito grande de linguagens como:
 É importante ressaltar que a linguagem de programação escolhida é somente mais uma ferramenta que você, enquanto pessoa desenvolvedora, precisará conhecer. A ideia do algoritmo não é ligada a nenhuma linguagem em específico, observe o mesmo algoritmo do cálculo da média usando a linguagem C#:
 
 // Linguagem C#
-static void Main(string[] args)
+
+
+
+
+static void Main(string[] args}
        
-       
-       
-       {
-        
-        
             float nota1; float nota2; float nota3; float media;
             Console.WriteLine("Digite nota 1:");
             nota1 = float.Parse(Console.ReadLine());
@@ -109,6 +108,11 @@ static void Main(string[] args)
 
             Console.WriteLine("A média do aluno é: " + media);
         }
+
+
+
+
+
 
 Note que o algoritmo é o mesmo, o passo a passo está ali, contudo, escrito em uma linguagem diferente. Portanto, após definida a sequência de instruções, escolha a linguagem que você mais se identifica para implementar o algoritmo.
 
