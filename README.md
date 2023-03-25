@@ -62,18 +62,18 @@ Outra forma bem interessante de representar algoritmos é utilizando uma pseudo-
 
 Importante notar que um pseudo-código é escrito com frases que correspondem a estruturas utilizadas em uma linguagem de programação, destacadas em negrito no exemplo abaixo:
 
-Algoritmo CalcularMediaAlunos
-LER Nota1
-    LER Nota2
-    LER Nota3
-    media = (Nota1+Nota2+Nota3)/3
-    SE MEDIA >= 6 ENTÃO
-        IMPRIME “Aprovado”
-    SENÃO
-        IMPRIME “Reprovado”
-FIM-SE
-IMPRIME o valor da média
-Fim-Algoritmo CalcularMediaAlunos
+#Algoritmo CalcularMediaAlunos
+#LER Nota1
+    #LER Nota2
+    #LER Nota3
+    #media = (Nota1+Nota2+Nota3)/3
+    #SE MEDIA >= 6 ENTÃO
+       # IMPRIME “Aprovado”
+   # SENÃO
+       # IMPRIME “Reprovado”
+#FIM-SE
+#IMPRIME o valor da média
+#Fim-Algoritmo CalcularMediaAlunos
 
 # Lógica de Programação
 
@@ -221,7 +221,7 @@ palavras, etc.)
 Referências:
 
 https://devsuperior.com.br
-Prof. Dr. Nelio Alves
+#Prof. Dr. Nelio Alves
 
-Alura
+#Alura
 https://www.alura.com.br/artigos/algoritmos-e-logica-de-programacao
