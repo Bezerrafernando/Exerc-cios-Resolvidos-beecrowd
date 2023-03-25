@@ -83,7 +83,7 @@ Para fazer isso, temos à disposição uma gama muito grande de linguagens como:
 
 
 
-static void Main(string[] args}
+static void Main(string[] args){
        
             float nota1; float nota2; float nota3; float media;
             Console.WriteLine("Digite nota 1:");
