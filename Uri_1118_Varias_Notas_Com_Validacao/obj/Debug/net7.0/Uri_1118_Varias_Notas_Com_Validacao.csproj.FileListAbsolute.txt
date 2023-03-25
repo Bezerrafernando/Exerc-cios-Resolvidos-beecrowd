@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1118_Varias_Notas_Com_Validacao\bin\Debug\net7.0\Uri_1118_Varias_Notas_Com_Validacao.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1118_Varias_Notas_Com_Validacao\bin\Debug\net7.0\Uri_1118_Varias_Notas_Com_Validacao.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1118_Varias_Notas_Com_Validacao\bin\Debug\net7.0\Uri_1118_Varias_Notas_Com_Validacao.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1118_Varias_Notas_Com_Validacao\bin\Debug\net7.0\Uri_1118_Varias_Notas_Com_Validacao.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1118_Varias_Notas_Com_Validacao\bin\Debug\net7.0\Uri_1118_Varias_Notas_Com_Validacao.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1118_Varias_Notas_Com_Validacao\obj\Debug\net7.0\Uri_1118_Varias_Notas_Com_Validacao.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1118_Varias_Notas_Com_Validacao\obj\Debug\net7.0\Uri_1118_Varias_Notas_Com_Validacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1118_Varias_Notas_Com_Validacao\obj\Debug\net7.0\Uri_1118_Varias_Notas_Com_Validacao.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1118_Varias_Notas_Com_Validacao\obj\Debug\net7.0\Uri_1118_Varias_Notas_Com_Validacao.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1118_Varias_Notas_Com_Validacao\obj\Debug\net7.0\Uri_1118_Varias_Notas_Com_Validacao.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1118_Varias_Notas_Com_Validacao\obj\Debug\net7.0\Uri_1118_Varias_Notas_Com_Validacao.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1118_Varias_Notas_Com_Validacao\obj\Debug\net7.0\refint\Uri_1118_Varias_Notas_Com_Validacao.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1118_Varias_Notas_Com_Validacao\obj\Debug\net7.0\Uri_1118_Varias_Notas_Com_Validacao.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1118_Varias_Notas_Com_Validacao\obj\Debug\net7.0\Uri_1118_Varias_Notas_Com_Validacao.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1118_Varias_Notas_Com_Validacao\obj\Debug\net7.0\ref\Uri_1118_Varias_Notas_Com_Validacao.dll
