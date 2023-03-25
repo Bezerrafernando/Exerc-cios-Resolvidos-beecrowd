@@ -185,8 +185,10 @@ palavras, etc.)
 
 Referências:
 
-https://devsuperior.com.br
-#Prof. Dr. Nelio Alves
+Prof. Dr. Nelio Alves
 
-#Alura
+https://devsuperior.com.br
+
+Alura
+
 https://www.alura.com.br/artigos/algoritmos-e-logica-de-programacao
