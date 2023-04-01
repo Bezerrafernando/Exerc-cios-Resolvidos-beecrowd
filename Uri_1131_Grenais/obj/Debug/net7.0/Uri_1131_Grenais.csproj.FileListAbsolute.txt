@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1131_Grenais\obj\Debug\net7.0\Uri_1131_Grenais.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1131_Grenais\obj\Debug\net7.0\Uri_1131_Grenais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1131_Grenais\obj\Debug\net7.0\Uri_1131_Grenais.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1131_Grenais\obj\Debug\net7.0\Uri_1131_Grenais.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1131_Grenais\obj\Debug\net7.0\Uri_1131_Grenais.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1131_Grenais\bin\Debug\net7.0\Uri_1131_Grenais.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1131_Grenais\bin\Debug\net7.0\Uri_1131_Grenais.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1131_Grenais\bin\Debug\net7.0\Uri_1131_Grenais.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1131_Grenais\bin\Debug\net7.0\Uri_1131_Grenais.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1131_Grenais\bin\Debug\net7.0\Uri_1131_Grenais.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1131_Grenais\obj\Debug\net7.0\Uri_1131_Grenais.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1131_Grenais\obj\Debug\net7.0\refint\Uri_1131_Grenais.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1131_Grenais\obj\Debug\net7.0\Uri_1131_Grenais.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1131_Grenais\obj\Debug\net7.0\Uri_1131_Grenais.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1131_Grenais\obj\Debug\net7.0\ref\Uri_1131_Grenais.dll
