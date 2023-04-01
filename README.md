@@ -60,20 +60,6 @@ Note que, na forma de um texto narrativo, ou mesmo nas outras formas de represen
 # Pseudo-linguagem
 Outra forma bem interessante de representar algoritmos é utilizando uma pseudo-linguagem, que escrevemos em português (também chamado de português estruturado) sem ambiguidades e sem toda a rigidez de uma linguagem de programação.
 
-Importante notar que um pseudo-código é escrito com frases que correspondem a estruturas utilizadas em uma linguagem de programação, destacadas em negrito no exemplo abaixo:
-
-Algoritmo CalcularMediaAlunos
-LER Nota1
-    LER Nota2
-    LER Nota3
-    media = (Nota1+Nota2+Nota3)/3
-    SE MEDIA >= 6 ENTÃO
-        IMPRIME “Aprovado”
-    SENÃO
-        IMPRIME “Reprovado”
-FIM-SE
-IMPRIME o valor da média
-Fim-Algoritmo CalcularMediaAlunos
 
 # Lógica de Programação
 
@@ -87,41 +73,19 @@ Para conseguirmos o objetivo de instruir o computador a fazer alguma coisa, prec
 
 Para fazer isso, temos à disposição uma gama muito grande de linguagens como: C, Java, PHP, Python, JavaScript, entre outras. Cada uma delas tem suas características, particularidades e cenários de aplicação.
 
-# Exemplos de códigos e algoritmos
-Vamos agora a um exemplo da codificação do algoritmo de médias usando uma linguagem de programação. A escolhida para a representação foi a linguagem C.
+# Exemplo de código e algoritmos
 
-//linguagem C
-int main(int argc, char *argv[]) {
-  setlocale(LC_ALL, "Portuguese");
-  float nota1=0; 
-  float nota2=0;  
-  float nota3=0;  
-  float media=0;
-  printf("Insira nota 1: ");
-  scanf("%f",&nota1);
-  printf("Insira nota 2: ");
-  scanf("%f",&nota2);
-  printf("Insira nota 3: ");
-  scanf("%f",&nota3); 
-  media = (nota1+nota2+nota3)/3;
-  if(media>=6){
-    printf("Aluno aprovado.\n");
-  }
-  else{
-    printf("Aluno reprovado.\n");
-  } 
-  printf("Média do aluno é: %f",media);
-}
-
-Na codificação em C, temos a implementação do algoritmo desenvolvido anteriormente, mas agora, após escolher uma linguagem de programação, devemos nos atentar às suas próprias regras de sintaxe (estrutura para escrita) e semântica (significado dado aos símbolos e comandos).
 
 É importante ressaltar que a linguagem de programação escolhida é somente mais uma ferramenta que você, enquanto pessoa desenvolvedora, precisará conhecer. A ideia do algoritmo não é ligada a nenhuma linguagem em específico, observe o mesmo algoritmo do cálculo da média usando a linguagem C#:
 
 // Linguagem C#
-static void Main(string[] args)
-        {
-            float nota1; float nota2; float nota3; float media;
 
+
+
+
+static void Main(string[] args){
+       
+            float nota1; float nota2; float nota3; float media;
             Console.WriteLine("Digite nota 1:");
             nota1 = float.Parse(Console.ReadLine());
 
@@ -144,6 +108,11 @@ static void Main(string[] args)
 
             Console.WriteLine("A média do aluno é: " + media);
         }
+
+
+
+
+
 
 Note que o algoritmo é o mesmo, o passo a passo está ali, contudo, escrito em uma linguagem diferente. Portanto, após definida a sequência de instruções, escolha a linguagem que você mais se identifica para implementar o algoritmo.
 
@@ -220,8 +189,10 @@ palavras, etc.)
 
 Referências:
 
-https://devsuperior.com.br
 Prof. Dr. Nelio Alves
 
+https://devsuperior.com.br
+
 Alura
+
 https://www.alura.com.br/artigos/algoritmos-e-logica-de-programacao
