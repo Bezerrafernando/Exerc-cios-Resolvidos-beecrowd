@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1071_Soma_de_Impares_Consecutivos_I\obj\Debug\net7.0\Uri_1071_Soma_de_Impares_Consecutivos_I.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1071_Soma_de_Impares_Consecutivos_I\obj\Debug\net7.0\Uri_1071_Soma_de_Impares_Consecutivos_I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1071_Soma_de_Impares_Consecutivos_I\obj\Debug\net7.0\Uri_1071_Soma_de_Impares_Consecutivos_I.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1071_Soma_de_Impares_Consecutivos_I\obj\Debug\net7.0\Uri_1071_Soma_de_Impares_Consecutivos_I.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1071_Soma_de_Impares_Consecutivos_I\obj\Debug\net7.0\Uri_1071_Soma_de_Impares_Consecutivos_I.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1071_Soma_de_Impares_Consecutivos_I\bin\Debug\net7.0\Uri_1071_Soma_de_Impares_Consecutivos_I.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1071_Soma_de_Impares_Consecutivos_I\bin\Debug\net7.0\Uri_1071_Soma_de_Impares_Consecutivos_I.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1071_Soma_de_Impares_Consecutivos_I\bin\Debug\net7.0\Uri_1071_Soma_de_Impares_Consecutivos_I.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1071_Soma_de_Impares_Consecutivos_I\bin\Debug\net7.0\Uri_1071_Soma_de_Impares_Consecutivos_I.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1071_Soma_de_Impares_Consecutivos_I\bin\Debug\net7.0\Uri_1071_Soma_de_Impares_Consecutivos_I.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1071_Soma_de_Impares_Consecutivos_I\obj\Debug\net7.0\Uri_1071_Soma_de_Impares_Consecutivos_I.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1071_Soma_de_Impares_Consecutivos_I\obj\Debug\net7.0\refint\Uri_1071_Soma_de_Impares_Consecutivos_I.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1071_Soma_de_Impares_Consecutivos_I\obj\Debug\net7.0\Uri_1071_Soma_de_Impares_Consecutivos_I.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1071_Soma_de_Impares_Consecutivos_I\obj\Debug\net7.0\Uri_1071_Soma_de_Impares_Consecutivos_I.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1071_Soma_de_Impares_Consecutivos_I\obj\Debug\net7.0\ref\Uri_1071_Soma_de_Impares_Consecutivos_I.dll

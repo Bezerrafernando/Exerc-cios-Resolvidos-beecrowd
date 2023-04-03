@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1078_Tabuada\bin\Debug\net7.0\Uri_1078_Tabuada.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1078_Tabuada\bin\Debug\net7.0\Uri_1078_Tabuada.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1078_Tabuada\bin\Debug\net7.0\Uri_1078_Tabuada.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1078_Tabuada\bin\Debug\net7.0\Uri_1078_Tabuada.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1078_Tabuada\bin\Debug\net7.0\Uri_1078_Tabuada.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1078_Tabuada\obj\Debug\net7.0\Uri_1078_Tabuada.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1078_Tabuada\obj\Debug\net7.0\Uri_1078_Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1078_Tabuada\obj\Debug\net7.0\Uri_1078_Tabuada.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1078_Tabuada\obj\Debug\net7.0\Uri_1078_Tabuada.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1078_Tabuada\obj\Debug\net7.0\Uri_1078_Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1078_Tabuada\obj\Debug\net7.0\Uri_1078_Tabuada.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1078_Tabuada\obj\Debug\net7.0\refint\Uri_1078_Tabuada.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1078_Tabuada\obj\Debug\net7.0\Uri_1078_Tabuada.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1078_Tabuada\obj\Debug\net7.0\Uri_1078_Tabuada.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1078_Tabuada\obj\Debug\net7.0\ref\Uri_1078_Tabuada.dll
