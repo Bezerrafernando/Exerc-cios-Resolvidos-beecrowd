@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1079_Medias_Ponderadas\obj\Debug\net7.0\Uri_1079_Medias_Ponderadas.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1079_Medias_Ponderadas\obj\Debug\net7.0\Uri_1079_Medias_Ponderadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1079_Medias_Ponderadas\obj\Debug\net7.0\Uri_1079_Medias_Ponderadas.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1079_Medias_Ponderadas\obj\Debug\net7.0\Uri_1079_Medias_Ponderadas.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1079_Medias_Ponderadas\obj\Debug\net7.0\Uri_1079_Medias_Ponderadas.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1079_Medias_Ponderadas\bin\Debug\net7.0\Uri_1079_Medias_Ponderadas.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1079_Medias_Ponderadas\bin\Debug\net7.0\Uri_1079_Medias_Ponderadas.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1079_Medias_Ponderadas\bin\Debug\net7.0\Uri_1079_Medias_Ponderadas.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1079_Medias_Ponderadas\bin\Debug\net7.0\Uri_1079_Medias_Ponderadas.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1079_Medias_Ponderadas\bin\Debug\net7.0\Uri_1079_Medias_Ponderadas.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1079_Medias_Ponderadas\obj\Debug\net7.0\Uri_1079_Medias_Ponderadas.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1079_Medias_Ponderadas\obj\Debug\net7.0\refint\Uri_1079_Medias_Ponderadas.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1079_Medias_Ponderadas\obj\Debug\net7.0\Uri_1079_Medias_Ponderadas.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1079_Medias_Ponderadas\obj\Debug\net7.0\Uri_1079_Medias_Ponderadas.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1079_Medias_Ponderadas\obj\Debug\net7.0\ref\Uri_1079_Medias_Ponderadas.dll
