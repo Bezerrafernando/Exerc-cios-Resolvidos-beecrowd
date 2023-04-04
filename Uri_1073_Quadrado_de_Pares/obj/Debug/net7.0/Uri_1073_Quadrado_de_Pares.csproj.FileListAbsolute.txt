@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1073_Quadrado_de_Pares\bin\Debug\net7.0\Uri_1073_Quadrado_de_Pares.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1073_Quadrado_de_Pares\bin\Debug\net7.0\Uri_1073_Quadrado_de_Pares.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1073_Quadrado_de_Pares\bin\Debug\net7.0\Uri_1073_Quadrado_de_Pares.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1073_Quadrado_de_Pares\bin\Debug\net7.0\Uri_1073_Quadrado_de_Pares.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1073_Quadrado_de_Pares\bin\Debug\net7.0\Uri_1073_Quadrado_de_Pares.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1073_Quadrado_de_Pares\obj\Debug\net7.0\Uri_1073_Quadrado_de_Pares.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1073_Quadrado_de_Pares\obj\Debug\net7.0\Uri_1073_Quadrado_de_Pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1073_Quadrado_de_Pares\obj\Debug\net7.0\Uri_1073_Quadrado_de_Pares.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1073_Quadrado_de_Pares\obj\Debug\net7.0\Uri_1073_Quadrado_de_Pares.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1073_Quadrado_de_Pares\obj\Debug\net7.0\Uri_1073_Quadrado_de_Pares.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1073_Quadrado_de_Pares\obj\Debug\net7.0\Uri_1073_Quadrado_de_Pares.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1073_Quadrado_de_Pares\obj\Debug\net7.0\refint\Uri_1073_Quadrado_de_Pares.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1073_Quadrado_de_Pares\obj\Debug\net7.0\Uri_1073_Quadrado_de_Pares.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1073_Quadrado_de_Pares\obj\Debug\net7.0\Uri_1073_Quadrado_de_Pares.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1073_Quadrado_de_Pares\obj\Debug\net7.0\ref\Uri_1073_Quadrado_de_Pares.dll

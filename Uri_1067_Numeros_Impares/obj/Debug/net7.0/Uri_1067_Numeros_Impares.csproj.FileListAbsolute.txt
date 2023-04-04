@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1067_Numeros_Impares\bin\Debug\net7.0\Uri_1067_Numeros_Impares.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1067_Numeros_Impares\bin\Debug\net7.0\Uri_1067_Numeros_Impares.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1067_Numeros_Impares\bin\Debug\net7.0\Uri_1067_Numeros_Impares.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1067_Numeros_Impares\bin\Debug\net7.0\Uri_1067_Numeros_Impares.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1067_Numeros_Impares\bin\Debug\net7.0\Uri_1067_Numeros_Impares.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1067_Numeros_Impares\obj\Debug\net7.0\Uri_1067_Numeros_Impares.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1067_Numeros_Impares\obj\Debug\net7.0\Uri_1067_Numeros_Impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1067_Numeros_Impares\obj\Debug\net7.0\Uri_1067_Numeros_Impares.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1067_Numeros_Impares\obj\Debug\net7.0\Uri_1067_Numeros_Impares.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1067_Numeros_Impares\obj\Debug\net7.0\Uri_1067_Numeros_Impares.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1067_Numeros_Impares\obj\Debug\net7.0\Uri_1067_Numeros_Impares.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1067_Numeros_Impares\obj\Debug\net7.0\refint\Uri_1067_Numeros_Impares.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1067_Numeros_Impares\obj\Debug\net7.0\Uri_1067_Numeros_Impares.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1067_Numeros_Impares\obj\Debug\net7.0\Uri_1067_Numeros_Impares.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1067_Numeros_Impares\obj\Debug\net7.0\ref\Uri_1067_Numeros_Impares.dll

@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1074_Par_ou_Impar\bin\Debug\net7.0\Uri_1074_Par_ou_Ímpar.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1074_Par_ou_Impar\bin\Debug\net7.0\Uri_1074_Par_ou_Ímpar.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1074_Par_ou_Impar\bin\Debug\net7.0\Uri_1074_Par_ou_Ímpar.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1074_Par_ou_Impar\bin\Debug\net7.0\Uri_1074_Par_ou_Ímpar.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1074_Par_ou_Impar\bin\Debug\net7.0\Uri_1074_Par_ou_Ímpar.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1074_Par_ou_Impar\obj\Debug\net7.0\Uri_1074_Par_ou_Ímpar.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1074_Par_ou_Impar\obj\Debug\net7.0\Uri_1074_Par_ou_Ímpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1074_Par_ou_Impar\obj\Debug\net7.0\Uri_1074_Par_ou_Ímpar.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1074_Par_ou_Impar\obj\Debug\net7.0\Uri_1074_Par_ou_Ímpar.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1074_Par_ou_Impar\obj\Debug\net7.0\Uri_1074_Par_ou_Ímpar.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1074_Par_ou_Impar\obj\Debug\net7.0\Uri_1074_Par_ou_Ímpar.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1074_Par_ou_Impar\obj\Debug\net7.0\refint\Uri_1074_Par_ou_Ímpar.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1074_Par_ou_Impar\obj\Debug\net7.0\Uri_1074_Par_ou_Ímpar.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1074_Par_ou_Impar\obj\Debug\net7.0\Uri_1074_Par_ou_Ímpar.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1074_Par_ou_Impar\obj\Debug\net7.0\ref\Uri_1074_Par_ou_Ímpar.dll
