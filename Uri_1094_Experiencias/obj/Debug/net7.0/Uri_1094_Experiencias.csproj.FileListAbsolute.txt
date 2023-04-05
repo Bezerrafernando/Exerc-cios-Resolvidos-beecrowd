@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1094_Experiencias\obj\Debug\net7.0\Uri_1094_Experiencias.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1094_Experiencias\obj\Debug\net7.0\Uri_1094_Experiencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1094_Experiencias\obj\Debug\net7.0\Uri_1094_Experiencias.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1094_Experiencias\obj\Debug\net7.0\Uri_1094_Experiencias.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1094_Experiencias\obj\Debug\net7.0\Uri_1094_Experiencias.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1094_Experiencias\bin\Debug\net7.0\Uri_1094_Experiencias.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1094_Experiencias\bin\Debug\net7.0\Uri_1094_Experiencias.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1094_Experiencias\bin\Debug\net7.0\Uri_1094_Experiencias.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1094_Experiencias\bin\Debug\net7.0\Uri_1094_Experiencias.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1094_Experiencias\bin\Debug\net7.0\Uri_1094_Experiencias.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1094_Experiencias\obj\Debug\net7.0\Uri_1094_Experiencias.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1094_Experiencias\obj\Debug\net7.0\refint\Uri_1094_Experiencias.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1094_Experiencias\obj\Debug\net7.0\Uri_1094_Experiencias.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1094_Experiencias\obj\Debug\net7.0\Uri_1094_Experiencias.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1094_Experiencias\obj\Debug\net7.0\ref\Uri_1094_Experiencias.dll

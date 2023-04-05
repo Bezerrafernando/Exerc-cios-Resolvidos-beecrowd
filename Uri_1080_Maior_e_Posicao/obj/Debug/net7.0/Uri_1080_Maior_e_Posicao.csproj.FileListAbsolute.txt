@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1080_Maior_e_Posicao\bin\Debug\net7.0\Uri_1080_Maior_e_Posicao.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1080_Maior_e_Posicao\bin\Debug\net7.0\Uri_1080_Maior_e_Posicao.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1080_Maior_e_Posicao\bin\Debug\net7.0\Uri_1080_Maior_e_Posicao.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1080_Maior_e_Posicao\bin\Debug\net7.0\Uri_1080_Maior_e_Posicao.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1080_Maior_e_Posicao\bin\Debug\net7.0\Uri_1080_Maior_e_Posicao.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1080_Maior_e_Posicao\obj\Debug\net7.0\Uri_1080_Maior_e_Posicao.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1080_Maior_e_Posicao\obj\Debug\net7.0\Uri_1080_Maior_e_Posicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1080_Maior_e_Posicao\obj\Debug\net7.0\Uri_1080_Maior_e_Posicao.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1080_Maior_e_Posicao\obj\Debug\net7.0\Uri_1080_Maior_e_Posicao.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1080_Maior_e_Posicao\obj\Debug\net7.0\Uri_1080_Maior_e_Posicao.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1080_Maior_e_Posicao\obj\Debug\net7.0\Uri_1080_Maior_e_Posicao.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1080_Maior_e_Posicao\obj\Debug\net7.0\refint\Uri_1080_Maior_e_Posicao.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1080_Maior_e_Posicao\obj\Debug\net7.0\Uri_1080_Maior_e_Posicao.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1080_Maior_e_Posicao\obj\Debug\net7.0\Uri_1080_Maior_e_Posicao.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1080_Maior_e_Posicao\obj\Debug\net7.0\ref\Uri_1080_Maior_e_Posicao.dll

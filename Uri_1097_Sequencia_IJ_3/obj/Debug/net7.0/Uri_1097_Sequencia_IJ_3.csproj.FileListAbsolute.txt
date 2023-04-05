@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1097_Sequencia_IJ_3\obj\Debug\net7.0\Uri_1097_Sequencia_IJ_3.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1097_Sequencia_IJ_3\obj\Debug\net7.0\Uri_1097_Sequencia_IJ_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1097_Sequencia_IJ_3\obj\Debug\net7.0\Uri_1097_Sequencia_IJ_3.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1097_Sequencia_IJ_3\obj\Debug\net7.0\Uri_1097_Sequencia_IJ_3.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1097_Sequencia_IJ_3\obj\Debug\net7.0\Uri_1097_Sequencia_IJ_3.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1097_Sequencia_IJ_3\bin\Debug\net7.0\Uri_1097_Sequencia_IJ_3.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1097_Sequencia_IJ_3\bin\Debug\net7.0\Uri_1097_Sequencia_IJ_3.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1097_Sequencia_IJ_3\bin\Debug\net7.0\Uri_1097_Sequencia_IJ_3.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1097_Sequencia_IJ_3\bin\Debug\net7.0\Uri_1097_Sequencia_IJ_3.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1097_Sequencia_IJ_3\bin\Debug\net7.0\Uri_1097_Sequencia_IJ_3.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1097_Sequencia_IJ_3\obj\Debug\net7.0\Uri_1097_Sequencia_IJ_3.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1097_Sequencia_IJ_3\obj\Debug\net7.0\refint\Uri_1097_Sequencia_IJ_3.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1097_Sequencia_IJ_3\obj\Debug\net7.0\Uri_1097_Sequencia_IJ_3.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1097_Sequencia_IJ_3\obj\Debug\net7.0\Uri_1097_Sequencia_IJ_3.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1097_Sequencia_IJ_3\obj\Debug\net7.0\ref\Uri_1097_Sequencia_IJ_3.dll
