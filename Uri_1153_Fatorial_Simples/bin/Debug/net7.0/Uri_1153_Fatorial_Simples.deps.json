@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Uri_1153_Fatorial_Simples/1.0.0": {
+        "runtime": {
+          "Uri_1153_Fatorial_Simples.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uri_1153_Fatorial_Simples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

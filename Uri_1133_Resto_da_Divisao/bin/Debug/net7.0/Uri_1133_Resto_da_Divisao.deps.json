@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Uri_1133_Resto_da_Divisao/1.0.0": {
+        "runtime": {
+          "Uri_1133_Resto_da_Divisao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uri_1133_Resto_da_Divisao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

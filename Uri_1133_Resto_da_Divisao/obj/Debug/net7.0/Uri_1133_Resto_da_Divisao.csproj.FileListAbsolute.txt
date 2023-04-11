@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1133_Resto_da_Divisao\bin\Debug\net7.0\Uri_1133_Resto_da_Divisao.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1133_Resto_da_Divisao\bin\Debug\net7.0\Uri_1133_Resto_da_Divisao.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1133_Resto_da_Divisao\bin\Debug\net7.0\Uri_1133_Resto_da_Divisao.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1133_Resto_da_Divisao\bin\Debug\net7.0\Uri_1133_Resto_da_Divisao.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1133_Resto_da_Divisao\bin\Debug\net7.0\Uri_1133_Resto_da_Divisao.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1133_Resto_da_Divisao\obj\Debug\net7.0\Uri_1133_Resto_da_Divisao.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1133_Resto_da_Divisao\obj\Debug\net7.0\Uri_1133_Resto_da_Divisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1133_Resto_da_Divisao\obj\Debug\net7.0\Uri_1133_Resto_da_Divisao.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1133_Resto_da_Divisao\obj\Debug\net7.0\Uri_1133_Resto_da_Divisao.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1133_Resto_da_Divisao\obj\Debug\net7.0\Uri_1133_Resto_da_Divisao.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1133_Resto_da_Divisao\obj\Debug\net7.0\Uri_1133_Resto_da_Divisao.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1133_Resto_da_Divisao\obj\Debug\net7.0\refint\Uri_1133_Resto_da_Divisao.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1133_Resto_da_Divisao\obj\Debug\net7.0\Uri_1133_Resto_da_Divisao.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1133_Resto_da_Divisao\obj\Debug\net7.0\Uri_1133_Resto_da_Divisao.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1133_Resto_da_Divisao\obj\Debug\net7.0\ref\Uri_1133_Resto_da_Divisao.dll

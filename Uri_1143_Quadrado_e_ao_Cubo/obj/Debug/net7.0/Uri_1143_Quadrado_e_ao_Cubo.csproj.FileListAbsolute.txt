@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1143_Quadrado_e_ao_Cubo\obj\Debug\net7.0\Uri_1143_Quadrado_e_ao_Cubo.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1143_Quadrado_e_ao_Cubo\obj\Debug\net7.0\Uri_1143_Quadrado_e_ao_Cubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1143_Quadrado_e_ao_Cubo\obj\Debug\net7.0\Uri_1143_Quadrado_e_ao_Cubo.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1143_Quadrado_e_ao_Cubo\obj\Debug\net7.0\Uri_1143_Quadrado_e_ao_Cubo.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1143_Quadrado_e_ao_Cubo\obj\Debug\net7.0\Uri_1143_Quadrado_e_ao_Cubo.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1143_Quadrado_e_ao_Cubo\bin\Debug\net7.0\Uri_1143_Quadrado_e_ao_Cubo.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1143_Quadrado_e_ao_Cubo\bin\Debug\net7.0\Uri_1143_Quadrado_e_ao_Cubo.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1143_Quadrado_e_ao_Cubo\bin\Debug\net7.0\Uri_1143_Quadrado_e_ao_Cubo.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1143_Quadrado_e_ao_Cubo\bin\Debug\net7.0\Uri_1143_Quadrado_e_ao_Cubo.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1143_Quadrado_e_ao_Cubo\bin\Debug\net7.0\Uri_1143_Quadrado_e_ao_Cubo.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1143_Quadrado_e_ao_Cubo\obj\Debug\net7.0\Uri_1143_Quadrado_e_ao_Cubo.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1143_Quadrado_e_ao_Cubo\obj\Debug\net7.0\refint\Uri_1143_Quadrado_e_ao_Cubo.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1143_Quadrado_e_ao_Cubo\obj\Debug\net7.0\Uri_1143_Quadrado_e_ao_Cubo.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1143_Quadrado_e_ao_Cubo\obj\Debug\net7.0\Uri_1143_Quadrado_e_ao_Cubo.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1143_Quadrado_e_ao_Cubo\obj\Debug\net7.0\ref\Uri_1143_Quadrado_e_ao_Cubo.dll

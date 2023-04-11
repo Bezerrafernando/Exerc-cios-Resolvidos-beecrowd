@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1151_Fibonacci_Facil\obj\Debug\net7.0\Uri_1151_Fibonacci_Facil.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1151_Fibonacci_Facil\obj\Debug\net7.0\Uri_1151_Fibonacci_Facil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1151_Fibonacci_Facil\obj\Debug\net7.0\Uri_1151_Fibonacci_Facil.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1151_Fibonacci_Facil\obj\Debug\net7.0\Uri_1151_Fibonacci_Facil.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1151_Fibonacci_Facil\obj\Debug\net7.0\Uri_1151_Fibonacci_Facil.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1151_Fibonacci_Facil\bin\Debug\net7.0\Uri_1151_Fibonacci_Facil.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1151_Fibonacci_Facil\bin\Debug\net7.0\Uri_1151_Fibonacci_Facil.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1151_Fibonacci_Facil\bin\Debug\net7.0\Uri_1151_Fibonacci_Facil.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1151_Fibonacci_Facil\bin\Debug\net7.0\Uri_1151_Fibonacci_Facil.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1151_Fibonacci_Facil\bin\Debug\net7.0\Uri_1151_Fibonacci_Facil.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1151_Fibonacci_Facil\obj\Debug\net7.0\Uri_1151_Fibonacci_Facil.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1151_Fibonacci_Facil\obj\Debug\net7.0\refint\Uri_1151_Fibonacci_Facil.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1151_Fibonacci_Facil\obj\Debug\net7.0\Uri_1151_Fibonacci_Facil.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1151_Fibonacci_Facil\obj\Debug\net7.0\Uri_1151_Fibonacci_Facil.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1151_Fibonacci_Facil\obj\Debug\net7.0\ref\Uri_1151_Fibonacci_Facil.dll

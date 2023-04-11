@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Uri_1143_Quadrado_e_ao_Cubo/1.0.0": {
+        "runtime": {
+          "Uri_1143_Quadrado_e_ao_Cubo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uri_1143_Quadrado_e_ao_Cubo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

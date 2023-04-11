@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1157_Divisores_I\bin\Debug\net7.0\Uri_1157_Divisores_I.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1157_Divisores_I\bin\Debug\net7.0\Uri_1157_Divisores_I.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1157_Divisores_I\bin\Debug\net7.0\Uri_1157_Divisores_I.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1157_Divisores_I\bin\Debug\net7.0\Uri_1157_Divisores_I.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1157_Divisores_I\bin\Debug\net7.0\Uri_1157_Divisores_I.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1157_Divisores_I\obj\Debug\net7.0\Uri_1157_Divisores_I.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1157_Divisores_I\obj\Debug\net7.0\Uri_1157_Divisores_I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1157_Divisores_I\obj\Debug\net7.0\Uri_1157_Divisores_I.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1157_Divisores_I\obj\Debug\net7.0\Uri_1157_Divisores_I.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1157_Divisores_I\obj\Debug\net7.0\Uri_1157_Divisores_I.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1157_Divisores_I\obj\Debug\net7.0\Uri_1157_Divisores_I.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1157_Divisores_I\obj\Debug\net7.0\refint\Uri_1157_Divisores_I.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1157_Divisores_I\obj\Debug\net7.0\Uri_1157_Divisores_I.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1157_Divisores_I\obj\Debug\net7.0\Uri_1157_Divisores_I.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1157_Divisores_I\obj\Debug\net7.0\ref\Uri_1157_Divisores_I.dll

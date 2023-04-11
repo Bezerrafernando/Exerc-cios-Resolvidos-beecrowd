@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1132_Multiplos_de_13\bin\Debug\net7.0\Uri_1132_Multiplos_de_13.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1132_Multiplos_de_13\bin\Debug\net7.0\Uri_1132_Multiplos_de_13.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1132_Multiplos_de_13\bin\Debug\net7.0\Uri_1132_Multiplos_de_13.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1132_Multiplos_de_13\bin\Debug\net7.0\Uri_1132_Multiplos_de_13.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1132_Multiplos_de_13\bin\Debug\net7.0\Uri_1132_Multiplos_de_13.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1132_Multiplos_de_13\obj\Debug\net7.0\Uri_1132_Multiplos_de_13.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1132_Multiplos_de_13\obj\Debug\net7.0\Uri_1132_Multiplos_de_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1132_Multiplos_de_13\obj\Debug\net7.0\Uri_1132_Multiplos_de_13.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1132_Multiplos_de_13\obj\Debug\net7.0\Uri_1132_Multiplos_de_13.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1132_Multiplos_de_13\obj\Debug\net7.0\Uri_1132_Multiplos_de_13.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1132_Multiplos_de_13\obj\Debug\net7.0\Uri_1132_Multiplos_de_13.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1132_Multiplos_de_13\obj\Debug\net7.0\refint\Uri_1132_Multiplos_de_13.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1132_Multiplos_de_13\obj\Debug\net7.0\Uri_1132_Multiplos_de_13.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1132_Multiplos_de_13\obj\Debug\net7.0\Uri_1132_Multiplos_de_13.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1132_Multiplos_de_13\obj\Debug\net7.0\ref\Uri_1132_Multiplos_de_13.dll

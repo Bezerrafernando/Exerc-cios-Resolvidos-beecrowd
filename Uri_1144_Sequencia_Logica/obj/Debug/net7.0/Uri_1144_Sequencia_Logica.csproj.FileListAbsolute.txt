@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1144_Sequencia_Logica\obj\Debug\net7.0\Uri_1144_Sequencia_Logica.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1144_Sequencia_Logica\obj\Debug\net7.0\Uri_1144_Sequencia_Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1144_Sequencia_Logica\obj\Debug\net7.0\Uri_1144_Sequencia_Logica.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1144_Sequencia_Logica\obj\Debug\net7.0\Uri_1144_Sequencia_Logica.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1144_Sequencia_Logica\obj\Debug\net7.0\Uri_1144_Sequencia_Logica.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1144_Sequencia_Logica\bin\Debug\net7.0\Uri_1144_Sequencia_Logica.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1144_Sequencia_Logica\bin\Debug\net7.0\Uri_1144_Sequencia_Logica.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1144_Sequencia_Logica\bin\Debug\net7.0\Uri_1144_Sequencia_Logica.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1144_Sequencia_Logica\bin\Debug\net7.0\Uri_1144_Sequencia_Logica.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1144_Sequencia_Logica\bin\Debug\net7.0\Uri_1144_Sequencia_Logica.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1144_Sequencia_Logica\obj\Debug\net7.0\Uri_1144_Sequencia_Logica.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1144_Sequencia_Logica\obj\Debug\net7.0\refint\Uri_1144_Sequencia_Logica.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1144_Sequencia_Logica\obj\Debug\net7.0\Uri_1144_Sequencia_Logica.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1144_Sequencia_Logica\obj\Debug\net7.0\Uri_1144_Sequencia_Logica.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1144_Sequencia_Logica\obj\Debug\net7.0\ref\Uri_1144_Sequencia_Logica.dll

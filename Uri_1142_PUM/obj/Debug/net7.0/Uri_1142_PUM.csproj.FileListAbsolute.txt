@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1142_PUM\bin\Debug\net7.0\Uri_1142_PUM.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1142_PUM\bin\Debug\net7.0\Uri_1142_PUM.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1142_PUM\bin\Debug\net7.0\Uri_1142_PUM.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1142_PUM\bin\Debug\net7.0\Uri_1142_PUM.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1142_PUM\bin\Debug\net7.0\Uri_1142_PUM.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1142_PUM\obj\Debug\net7.0\Uri_1142_PUM.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1142_PUM\obj\Debug\net7.0\Uri_1142_PUM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1142_PUM\obj\Debug\net7.0\Uri_1142_PUM.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1142_PUM\obj\Debug\net7.0\Uri_1142_PUM.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1142_PUM\obj\Debug\net7.0\Uri_1142_PUM.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1142_PUM\obj\Debug\net7.0\Uri_1142_PUM.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1142_PUM\obj\Debug\net7.0\refint\Uri_1142_PUM.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1142_PUM\obj\Debug\net7.0\Uri_1142_PUM.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1142_PUM\obj\Debug\net7.0\Uri_1142_PUM.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1142_PUM\obj\Debug\net7.0\ref\Uri_1142_PUM.dll

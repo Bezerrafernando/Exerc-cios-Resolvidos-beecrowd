@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1153_Fatorial_Simples\obj\Debug\net7.0\Uri_1153_Fatorial_Simples.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1153_Fatorial_Simples\obj\Debug\net7.0\Uri_1153_Fatorial_Simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1153_Fatorial_Simples\obj\Debug\net7.0\Uri_1153_Fatorial_Simples.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1153_Fatorial_Simples\obj\Debug\net7.0\Uri_1153_Fatorial_Simples.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1153_Fatorial_Simples\obj\Debug\net7.0\Uri_1153_Fatorial_Simples.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1153_Fatorial_Simples\bin\Debug\net7.0\Uri_1153_Fatorial_Simples.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1153_Fatorial_Simples\bin\Debug\net7.0\Uri_1153_Fatorial_Simples.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1153_Fatorial_Simples\bin\Debug\net7.0\Uri_1153_Fatorial_Simples.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1153_Fatorial_Simples\bin\Debug\net7.0\Uri_1153_Fatorial_Simples.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1153_Fatorial_Simples\bin\Debug\net7.0\Uri_1153_Fatorial_Simples.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1153_Fatorial_Simples\obj\Debug\net7.0\Uri_1153_Fatorial_Simples.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1153_Fatorial_Simples\obj\Debug\net7.0\refint\Uri_1153_Fatorial_Simples.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1153_Fatorial_Simples\obj\Debug\net7.0\Uri_1153_Fatorial_Simples.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1153_Fatorial_Simples\obj\Debug\net7.0\Uri_1153_Fatorial_Simples.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1153_Fatorial_Simples\obj\Debug\net7.0\ref\Uri_1153_Fatorial_Simples.dll
