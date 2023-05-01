@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1150_Ultrapassando_Z\bin\Debug\net7.0\Uri_1150_Ultrapassando_Z.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1150_Ultrapassando_Z\bin\Debug\net7.0\Uri_1150_Ultrapassando_Z.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1150_Ultrapassando_Z\bin\Debug\net7.0\Uri_1150_Ultrapassando_Z.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1150_Ultrapassando_Z\bin\Debug\net7.0\Uri_1150_Ultrapassando_Z.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1150_Ultrapassando_Z\bin\Debug\net7.0\Uri_1150_Ultrapassando_Z.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1150_Ultrapassando_Z\obj\Debug\net7.0\Uri_1150_Ultrapassando_Z.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1150_Ultrapassando_Z\obj\Debug\net7.0\Uri_1150_Ultrapassando_Z.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1150_Ultrapassando_Z\obj\Debug\net7.0\Uri_1150_Ultrapassando_Z.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1150_Ultrapassando_Z\obj\Debug\net7.0\Uri_1150_Ultrapassando_Z.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1150_Ultrapassando_Z\obj\Debug\net7.0\Uri_1150_Ultrapassando_Z.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1150_Ultrapassando_Z\obj\Debug\net7.0\Uri_1150_Ultrapassando_Z.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1150_Ultrapassando_Z\obj\Debug\net7.0\refint\Uri_1150_Ultrapassando_Z.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1150_Ultrapassando_Z\obj\Debug\net7.0\Uri_1150_Ultrapassando_Z.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1150_Ultrapassando_Z\obj\Debug\net7.0\Uri_1150_Ultrapassando_Z.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1150_Ultrapassando_Z\obj\Debug\net7.0\ref\Uri_1150_Ultrapassando_Z.dll

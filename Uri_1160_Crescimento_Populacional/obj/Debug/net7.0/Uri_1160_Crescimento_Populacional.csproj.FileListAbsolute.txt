@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1160_Crescimento_Populacional\obj\Debug\net7.0\Uri_1160_Crescimento_Populacional.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1160_Crescimento_Populacional\obj\Debug\net7.0\Uri_1160_Crescimento_Populacional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1160_Crescimento_Populacional\obj\Debug\net7.0\Uri_1160_Crescimento_Populacional.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1160_Crescimento_Populacional\obj\Debug\net7.0\Uri_1160_Crescimento_Populacional.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1160_Crescimento_Populacional\obj\Debug\net7.0\Uri_1160_Crescimento_Populacional.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1160_Crescimento_Populacional\bin\Debug\net7.0\Uri_1160_Crescimento_Populacional.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1160_Crescimento_Populacional\bin\Debug\net7.0\Uri_1160_Crescimento_Populacional.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1160_Crescimento_Populacional\bin\Debug\net7.0\Uri_1160_Crescimento_Populacional.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1160_Crescimento_Populacional\bin\Debug\net7.0\Uri_1160_Crescimento_Populacional.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1160_Crescimento_Populacional\bin\Debug\net7.0\Uri_1160_Crescimento_Populacional.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1160_Crescimento_Populacional\obj\Debug\net7.0\Uri_1160_Crescimento_Populacional.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1160_Crescimento_Populacional\obj\Debug\net7.0\refint\Uri_1160_Crescimento_Populacional.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1160_Crescimento_Populacional\obj\Debug\net7.0\Uri_1160_Crescimento_Populacional.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1160_Crescimento_Populacional\obj\Debug\net7.0\Uri_1160_Crescimento_Populacional.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\Desafios_beecrowd\Uri_1160_Crescimento_Populacional\obj\Debug\net7.0\ref\Uri_1160_Crescimento_Populacional.dll

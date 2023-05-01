@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Uri_1150_Ultrapassando_Z/1.0.0": {
+        "runtime": {
+          "Uri_1150_Ultrapassando_Z.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uri_1150_Ultrapassando_Z/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
